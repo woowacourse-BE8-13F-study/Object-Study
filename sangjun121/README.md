@@ -6,4 +6,5 @@
 | 챕터 | 바로가기 |
 |---|---|
 | 12장 | [Chapter12 다형성](./chapter12/CHAPTER12.md) |
+| 13장 | [Chapter13 서브클래싱과 서브타이핑](./chapter13/README.md) |
 
